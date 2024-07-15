@@ -1,0 +1,7 @@
+boto3
+pandas
+scikit-learn
+seaborn
+mlflow
+psycopg2-binary
+plotly
